@@ -1,0 +1,9 @@
+# ninja log v5
+7	730	7037320005859659	CMakeFiles/sfmlTu.dir/cScreen.cpp.obj	b2825746cc1136ef
+13	751	7037320006083109	CMakeFiles/sfmlTu.dir/Screens.cpp.obj	ba5e352a4b708b16
+18	803	7037320006546264	CMakeFiles/sfmlTu.dir/screen_1.cpp.obj	8f928bfeac09e37c
+1	852	7037320007112200	CMakeFiles/sfmlTu.dir/main.cpp.obj	2b030ff0c4c81329
+27	854	7037320007122229	CMakeFiles/sfmlTu.dir/screen_0.cpp.obj	d3b2ad3b0a1bb02c
+856	1883	7037320017016368	sfmlTu.exe	b3e508f300394fbd
+4	687	7037321889576879	CMakeFiles/sfmlTu.dir/screen_0.cpp.obj	d3b2ad3b0a1bb02c
+690	1611	7037321898624937	sfmlTu.exe	b3e508f300394fbd

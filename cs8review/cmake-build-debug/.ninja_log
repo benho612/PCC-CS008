@@ -1,0 +1,7 @@
+# ninja log v5
+3	447	7156543914306912	CMakeFiles/cs8review.dir/main.cpp.obj	98722105c0e61547
+437	604	7156545581883295	cs8review.exe	e4d3e0470156f9c2
+9	401	7157360918394833	build.ninja	70fd6d5db6f94425
+4	437	7156545580331052	CMakeFiles/cs8review.dir/Math.cpp.obj	32d1ce1b71267678
+12	474	7156541536676322	CMakeFiles/cs8review.dir/DivideByZeroException.cpp.obj	397e8ff99d5e5bf2
+28	477	7156541536665928	CMakeFiles/cs8review.dir/NegativeNumberException.cpp.obj	67627c31412494de

@@ -1,0 +1,15 @@
+# ninja log v5
+1	428	6993251315082296	CMakeFiles/Classesquiz.dir/main.cpp.obj	7c8532868ebf99fd
+3	326	6993251426369478	CMakeFiles/Classesquiz.dir/Integer.cpp.obj	78fe990101543327
+326	451	6993251427571250	Classesquiz.exe	6f3b1be6eaca984c
+3	341	6993251746118520	CMakeFiles/Classesquiz.dir/Integer.cpp.obj	78fe990101543327
+342	453	6993251747161669	Classesquiz.exe	6f3b1be6eaca984c
+4	354	6993254389744710	CMakeFiles/Classesquiz.dir/main.cpp.obj	7c8532868ebf99fd
+10	360	6993254389817025	CMakeFiles/Classesquiz.dir/Integer.cpp.obj	78fe990101543327
+361	485	6993254391004109	Classesquiz.exe	6f3b1be6eaca984c
+7	338	6993255853802495	CMakeFiles/Classesquiz.dir/Integer.cpp.obj	78fe990101543327
+2	348	6993255853909054	CMakeFiles/Classesquiz.dir/main.cpp.obj	7c8532868ebf99fd
+348	466	6993255854986161	Classesquiz.exe	6f3b1be6eaca984c
+3	1059	6994121516523426	CMakeFiles/Classesquiz.dir/main.cpp.obj	7c8532868ebf99fd
+28	1061	6994121516534028	CMakeFiles/Classesquiz.dir/Integer.cpp.obj	78fe990101543327
+1061	1448	6994121520352405	Classesquiz.exe	6f3b1be6eaca984c

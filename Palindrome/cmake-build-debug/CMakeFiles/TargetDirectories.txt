@@ -1,0 +1,3 @@
+C:/Users/hoben/CLionProjects/Palindrome/cmake-build-debug/CMakeFiles/PointerLab.dir
+C:/Users/hoben/CLionProjects/Palindrome/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hoben/CLionProjects/Palindrome/cmake-build-debug/CMakeFiles/rebuild_cache.dir

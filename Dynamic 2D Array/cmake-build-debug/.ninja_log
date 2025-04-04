@@ -1,0 +1,6 @@
+# ninja log v5
+7	573	6995012111433248	CMakeFiles/Dynamic_2D_Array.dir/main.cpp.obj	2db5b54b4ca03166
+3	645	6995012112134241	CMakeFiles/Dynamic_2D_Array.dir/twoDArray.cpp.obj	c5956a631e80209b
+646	1252	6995012118095210	Dynamic_2D_Array.exe	be158bbd08d04bd2
+1	14	0	clean	8e882aa6fdf8b31c
+1	405	7048350130026993	build.ninja	6b72e6fb1c2f7996

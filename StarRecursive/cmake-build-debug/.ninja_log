@@ -1,0 +1,13 @@
+# ninja log v5
+0	602	7024290519597872	CMakeFiles/StarRecursive.dir/main.cpp.obj	76efdc47a97138aa
+15	616	7024290519736381	CMakeFiles/StarRecursive.dir/StarRecursive.cpp.obj	5b7f1fa6b86e8196
+616	926	7024290522479152	StarRecursive.exe	8e0473bf6e7daa91
+3	317	7024290656381319	CMakeFiles/StarRecursive.dir/main.cpp.obj	76efdc47a97138aa
+318	466	7024290657530051	StarRecursive.exe	8e0473bf6e7daa91
+3	413	7024292196505234	CMakeFiles/StarRecursive.dir/main.cpp.obj	76efdc47a97138aa
+9	442	7024292196804574	CMakeFiles/StarRecursive.dir/StarRecursive.cpp.obj	5b7f1fa6b86e8196
+443	590	7024292198211376	StarRecursive.exe	8e0473bf6e7daa91
+4	366	7024292440367870	CMakeFiles/StarRecursive.dir/StarRecursive.cpp.obj	5b7f1fa6b86e8196
+369	531	7024292441642472	StarRecursive.exe	8e0473bf6e7daa91
+3	340	7024292555572419	CMakeFiles/StarRecursive.dir/StarRecursive.cpp.obj	5b7f1fa6b86e8196
+341	474	7024292556850482	StarRecursive.exe	8e0473bf6e7daa91

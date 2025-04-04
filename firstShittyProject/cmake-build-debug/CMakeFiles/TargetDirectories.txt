@@ -1,0 +1,3 @@
+C:/Users/hoben/CLionProjects/firstShittyProject/cmake-build-debug/CMakeFiles/firstShittyProject.dir
+C:/Users/hoben/CLionProjects/firstShittyProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hoben/CLionProjects/firstShittyProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir

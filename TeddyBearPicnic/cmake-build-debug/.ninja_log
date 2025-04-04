@@ -1,0 +1,17 @@
+# ninja log v5
+2	98	7193663598244333	CMakeFiles/TeddyBearPicnic.dir/TeddyBear.cpp.obj	363693bbe3c00a15
+3	249	7193667087391266	CMakeFiles/TeddyBearPicnic.dir/main.cpp.obj	3596f9ef5dcecd7f
+250	353	7193667088349921	TeddyBearPicnic.exe	ade27482536ac4be
+2	232	7193667304043482	CMakeFiles/TeddyBearPicnic.dir/main.cpp.obj	3596f9ef5dcecd7f
+232	336	7193667305020183	TeddyBearPicnic.exe	ade27482536ac4be
+2	283	7193668153963537	CMakeFiles/TeddyBearPicnic.dir/main.cpp.obj	3596f9ef5dcecd7f
+284	408	7193668155185060	TeddyBearPicnic.exe	ade27482536ac4be
+3	71	7193669627488523	CMakeFiles/TeddyBearPicnic.dir/TeddyBear.cpp.obj	363693bbe3c00a15
+72	179	7193669628493701	TeddyBearPicnic.exe	ade27482536ac4be
+7	70	7193669743613449	CMakeFiles/TeddyBearPicnic.dir/TeddyBear.cpp.obj	363693bbe3c00a15
+2	246	7193669745369521	CMakeFiles/TeddyBearPicnic.dir/main.cpp.obj	3596f9ef5dcecd7f
+246	346	7193669746302844	TeddyBearPicnic.exe	ade27482536ac4be
+2	235	7193669917693902	CMakeFiles/TeddyBearPicnic.dir/main.cpp.obj	3596f9ef5dcecd7f
+235	330	7193669918589958	TeddyBearPicnic.exe	ade27482536ac4be
+2	241	7193669959035782	CMakeFiles/TeddyBearPicnic.dir/main.cpp.obj	3596f9ef5dcecd7f
+242	339	7193669960002528	TeddyBearPicnic.exe	ade27482536ac4be

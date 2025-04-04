@@ -1,0 +1,22 @@
+# ninja log v5
+3	151	7013093106877888	CMakeFiles/LinkedListProject.dir/main.cpp.obj	bf1de9a9359fb94f
+2	611	7013094321639375	CMakeFiles/LinkedListProject.dir/LinkedList.cpp.obj	c443ac5cd8b8c21
+374	533	7013100848692747	LinkedListProject.exe	4d01043fa1e72650
+8	613	7013094321639375	CMakeFiles/LinkedListProject.dir/Stack.cpp.obj	59f1a2a027a0c93c
+29	782	7013103328262671	build.ninja	3b4407aa4440aac3
+3	378	7013096137777628	CMakeFiles/LinkedListProject.dir/testCase.cpp.obj	7a00033039e3bc03
+3	362	7013100847061286	CMakeFiles/LinkedListProject.dir/Queue.cpp.obj	e771a6b334252222
+10	113	7013100445225320	CMakeFiles/LinkedListProject.dir/testCaseForStack.cpp.obj	3aa70911af847e46
+10	373	7013100847170632	CMakeFiles/LinkedListProject.dir/testCaseForQueue.cpp.obj	1491bf1372fb93a5
+3	120	7013113713075227	CMakeFiles/LinkedListProject.dir/testCaseForQueue.cpp.obj	1491bf1372fb93a5
+9	510	7013113716998196	CMakeFiles/LinkedListProject.dir/Palindrome.cpp.obj	62e06fd9cd975b78
+511	869	7013113720157007	LinkedListProject.exe	4d5a16f211406df8
+2	350	7013113795575791	CMakeFiles/LinkedListProject.dir/Palindrome.cpp.obj	62e06fd9cd975b78
+351	487	7013113796871410	LinkedListProject.exe	4d5a16f211406df8
+2	371	7013114127778177	CMakeFiles/LinkedListProject.dir/Palindrome.cpp.obj	62e06fd9cd975b78
+372	535	7013114129286418	LinkedListProject.exe	4d5a16f211406df8
+5	556	7013115971950275	CMakeFiles/LinkedListProject.dir/Palindrome.cpp.obj	62e06fd9cd975b78
+556	854	7013115974730187	LinkedListProject.exe	4d5a16f211406df8
+173	353	7173763866584994	CMakeFiles/LinkedListProject.dir/Palindrome.cpp.obj	62e06fd9cd975b78
+2	542	7173763868469240	CMakeFiles/LinkedListProject.dir/main.cpp.obj	bf1de9a9359fb94f
+542	881	7173763871767010	LinkedListProject.exe	4d5a16f211406df8

@@ -1,0 +1,13 @@
+# ninja log v5
+1	267	6974607115928590	CMakeFiles/programming_project10.dir/Movie.cpp.obj	ab1ba2889f45a64c
+3	269	6974607115948593	CMakeFiles/programming_project10.dir/main.cpp.obj	76147b38bf9ac0a7
+269	371	6974607116948019	programming_project10.exe	7c9ff82d5cae783e
+3	254	6974607493318586	CMakeFiles/programming_project10.dir/Movie.cpp.obj	ab1ba2889f45a64c
+254	331	6974607494068745	programming_project10.exe	7c9ff82d5cae783e
+3	256	6974607690458589	CMakeFiles/programming_project10.dir/Movie.cpp.obj	ab1ba2889f45a64c
+257	333	6974607691198752	programming_project10.exe	7c9ff82d5cae783e
+2	269	6974608913285527	CMakeFiles/programming_project10.dir/Movie.cpp.obj	ab1ba2889f45a64c
+270	350	6974608914075710	programming_project10.exe	7c9ff82d5cae783e
+5	260	6974609519692964	CMakeFiles/programming_project10.dir/main.cpp.obj	76147b38bf9ac0a7
+2	264	6974609519732982	CMakeFiles/programming_project10.dir/Movie.cpp.obj	ab1ba2889f45a64c
+264	341	6974609520483147	programming_project10.exe	7c9ff82d5cae783e

@@ -1,0 +1,15 @@
+# ninja log v5
+58	1644	7024277988022734	CMakeFiles/PokerAnalysis.dir/PokerScore.cpp.obj	9bb359f0474b3b63
+66	2216	7024277993737935	CMakeFiles/PokerAnalysis.dir/testing.cpp.obj	227e447887313aca
+2410	3770	7024278009043099	PokerAnalysis.exe	930e0205dde1b34e
+71	1625	7024277987739853	CMakeFiles/PokerAnalysis.dir/CardHand.cpp.obj	5ca1ecec97b02b3f
+11	1622	7024277987729115	CMakeFiles/PokerAnalysis.dir/CardHandScorer.cpp.obj	3e999fefea736ef9
+20	2286	7023417839709086	CMakeFiles/PokerAnalysis.dir/Deck.cpp.obj	563c87f7b170ec61
+6	2278	7023417839577463	CMakeFiles/PokerAnalysis.dir/Card.cpp.obj	bbb67f258859688b
+32	778	7022572505642758	CMakeFiles/PokerAnalysis.dir/Component.cpp.obj	9991332a0d8c3766
+740	1621	7022572514111315	CMakeFiles/PokerAnalysis.dir/Application.cpp.obj	23b70834c776b49f
+40	2270	7023417839567482	CMakeFiles/PokerAnalysis.dir/SfmlCard.cpp.obj	7591d0da0c39243a
+2286	3317	7023417850269976	CMakeFiles/PokerAnalysis.dir/rowOfCard.cpp.obj	6e13a168506995b4
+1	131	7022572450404345	build.ninja	a0f1606837592f6f
+88	2410	7024277995673775	CMakeFiles/PokerAnalysis.dir/SfmlScore.cpp.obj	5b20db72c5bf8c4e
+81	2222	7024277993787921	CMakeFiles/PokerAnalysis.dir/SfmlSingleScore.cpp.obj	ac4fd7e9e1cca525

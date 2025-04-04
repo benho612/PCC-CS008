@@ -1,0 +1,8 @@
+# ninja log v5
+13	372	7185894895941164	CMakeFiles/DoublyLinkedList.dir/DoublyLinkedList.cpp.obj	439e5b7ad7c2ce3a
+466	592	7185894898085298	DoublyLinkedList.exe	369edf9d64fe15df
+21	466	7185894896881976	CMakeFiles/DoublyLinkedList.dir/Queue.cpp.obj	5cd16a99032aa753
+30	1102	7185892879845694	CMakeFiles/DoublyLinkedList.dir/NodeIterator.cpp.obj	b777f20988f73db7
+2	461	7185894896821981	CMakeFiles/DoublyLinkedList.dir/main.cpp.obj	1a1b27aaedd4fe4d
+29	440	7185894896642035	CMakeFiles/DoublyLinkedList.dir/ConstNodeIterator.cpp.obj	820c050787e56d7f
+8	409	7185894896334780	CMakeFiles/DoublyLinkedList.dir/Stack.cpp.obj	37a6bfca568adbeb

@@ -1,0 +1,3 @@
+C:/Users/hoben/CLionProjects/CS3A_Spring23_SFMLCard(1a)/cmake-build-debug/CMakeFiles/CS3A_Spring23_SFMLCard.dir
+C:/Users/hoben/CLionProjects/CS3A_Spring23_SFMLCard(1a)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hoben/CLionProjects/CS3A_Spring23_SFMLCard(1a)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
